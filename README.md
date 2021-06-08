@@ -1,11 +1,17 @@
 ### Hi there 👋
+I am xinnah, currently working at MBM Group, developping [ERP](http://erp.aql-bd.com) using Laravel, Vue.js and MysQl.
+
+🌱 In my free time, I like to develop open source projects. Some of them are -
+
+
+[![Xinnah's GitHub stats](https://github-readme-stats.vercel.app/api?username=xinnah&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
-**xinnah/xinnah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**xinnah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
